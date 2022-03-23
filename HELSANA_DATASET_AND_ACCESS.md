@@ -36,11 +36,19 @@ MET oder intensity can be calculated with MetMinues/Duration in minutes
 
 Use the database tools or libraries of your choice to connect to our Azure SQL database (mostly compatible with MS-SQL). You may use MS-SQL data-drivers to access this database.
 
+### Tools
+If you're unsure about what tool to use to access our Azure SQL database, we recommend [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15).
+
+We've also prepared a notebook that you can open using Azure Data Studio which will give you some insight in the data.
+
+### Database Connection Information
 - Server: hhack-dbserver.database.windows.net
 - Port: 1433
 - Catalog/Database: hhack-db
 - User: hhackreader
 - Passwort: GetMeData!
+
+
 
 Here are some connection strings you may like to use:
 
