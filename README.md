@@ -4,7 +4,7 @@
 To have our users engage with our Helsana+ app even more, we want to build a system that recommends activities which the user can perform through the app. The recommendations can be based on a set of [sample data](HELSANA_DATASET_AND_ACCESS.md) that we provide and can be derived from a user's own existing data or also on other users' data.
 
 ### Case Pitch
-Insert your Pitch Video or Slides here
+[Slides](StartHack_Pitch.pptx).
 
 ### Deep Dive Slides
 Insert materials from your Deep Dives here
@@ -32,7 +32,5 @@ List all available mentors here.
 - Christian Bär, Discord teggno#0321  
   Availability: We full day / Thu until evening / Fri full day
 
-List the expected availability of your mentors (phyiscal and on Discord)
-
 ### Prize
-Let the participants know what will be expecting the winning Team!
+The winner team will get multiple sets of Nanoleaf.
