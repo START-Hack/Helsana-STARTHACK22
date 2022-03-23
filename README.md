@@ -1,10 +1,7 @@
 # START Hack 2022 - Helsana Case 
 
 ### Case Introduction
-Please give a short introduction to your case.
-What is the problem you are solving?
-What do you expect from the winning team?
-Are you planning on further developing this project after the START Hack?
+To have our users engage with our Helsana+ app even more, we want to build system that recommends activities the user can perform through our app. The recommendations can be based on a set of [sample data](HELSANA_DATASET_AND_ACCESS.md) that we provide and can be derived from a user's own existing data or also on other users' data.
 
 ### Case Pitch
 Insert your Pitch Video or Slides here
@@ -17,9 +14,7 @@ Insert any further information about the hack case, the topic and related projec
 Give as much context as possible, in order to give your coders a head start!
 
 ### Resources
-List all relevant resources and tools here.
-Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
-You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
+Find **information about our data set** [here](HELSANA_DATASET_AND_ACCESS.md)
 
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
