@@ -32,14 +32,15 @@ Fields for table `Move` and their meaning:
 
 MET or intensity can be calculated with MetMintues/(duration in minutes)
 
+## Data Content
+We've prepared a [notebook](Hack22_DataAnalysis.ipynb) that you can open using Azure Data Studio. This will give you some insight in the data and explain some relationships.
+
 ## Direct SQL access (read-only)
 
 Use the database tools or libraries of your choice to connect to our Azure SQL database (mostly compatible with MS-SQL). You may use MS-SQL data-drivers to access this database.
 
 ### Tools
 If you're unsure about what tool to use to access our Azure SQL database, we recommend [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15).
-
-We've also prepared a [notebook](Hack22_DataAnalysis.ipynb) that you can open using Azure Data Studio and will give you some insight in the data.
 
 ### Database Connection Information
 - Server: hhack-dbserver.database.windows.net
