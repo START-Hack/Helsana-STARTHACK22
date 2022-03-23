@@ -23,7 +23,7 @@ Insert a description of your grading scheme here! What are you looking for? What
 List all available mentors here.
 
 ### Mentor Availability
-- Arben Nuhija, Discord
+- Arben Nuhija, Discord  
   Availability: 
 - Paulina Naef, Discord  
   Availability: 
