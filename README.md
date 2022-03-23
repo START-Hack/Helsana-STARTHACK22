@@ -23,6 +23,15 @@ Insert a description of your grading scheme here! What are you looking for? What
 List all available mentors here.
 
 ### Mentor Availability
+- Arben Nuhija, Discord
+  Availability: 
+- Paulina Naef, Discord  
+  Availability: 
+- Muhamed Ahmetovic, Discord  
+  Availability: 
+- Christian Bär, Discord teggno#0321  
+  Availability: We full day / Thu until evening / Fri full day
+
 List the expected availability of your mentors (phyiscal and on Discord)
 
 ### Prize
