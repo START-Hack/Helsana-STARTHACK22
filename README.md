@@ -14,7 +14,7 @@ Insert any further information about the hack case, the topic and related projec
 Give as much context as possible, in order to give your coders a head start!
 
 ### Resources
-Find **information about our data set** [here](HELSANA_DATASET_AND_ACCESS.md)
+- Find **information about our data set** [here](HELSANA_DATASET_AND_ACCESS.md).
 
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
