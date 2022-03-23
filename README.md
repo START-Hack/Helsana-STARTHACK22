@@ -19,9 +19,6 @@ Give as much context as possible, in order to give your coders a head start!
 ### Judging Criteria
 [here](JudgingCriteria.CSV)
 
-### Point of Contact
-List all available mentors here.
-
 ### Mentor Availability
 - Arben Nuhija, Discord  
   Availability: 
