@@ -30,7 +30,7 @@ Fields for table `Move` and their meaning:
 - ``TimeStart`` (string) &mdash; Time and Date of the sport unit.
 - ``Duration`` (long) &mdash; Duration of the sport unit in milliseconds.
 
-MET oder intensity can be calculated with MetMinues/Duration in minutes
+MET or intensity can be calculated with MetMintues/(duration in minutes)
 
 ## Direct SQL access (read-only)
 
